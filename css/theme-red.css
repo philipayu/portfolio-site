@@ -429,6 +429,16 @@ p.lead {
     font-size: 12px;
   }
 }
+.side {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    background-color:#ebebeb;
+    clear:both;
+    width:900px;
+    padding:40px 0 27px 0;
+    }
+}
 a,
 a:visited,
 a:focus,
